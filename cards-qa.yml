@@ -5,7 +5,7 @@ cards:
   message: "Welcome to TUS cards related QA APIs "
   contactDetails:
     name: "Jane Bloggs - QA Lead"
-    email: "jane@tus.com"
+    email: "{cipher}200b2102759ceb9ae41bd94335abed48804351d17fb24e70b43387400b73c9735c64d4eccb0df08e64920d04f5a4b3bb"
   onCallSupport:
     - (123) 545-6565
     - (123) 546-3467
